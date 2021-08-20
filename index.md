@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jasper's portfolio.
 
 You can use the [editor on GitHub](https://github.com/polair1stuff/portfoliodigimedia2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
