@@ -1,14 +1,16 @@
 @charset "UTF-8"; 
 /* This is a comment! Text here will be ignored by the browser. */
 body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #4A00F0
-	color: #E8EAFA
-	border-color: #E8EAFA
+	background-color: #4A00F0;
+	color: #E8EAFA;
+	border-color: #E8EAFA;
 	margin: 0 auto;
 	
 }
 .homePage {
-	background: #222222;
+	background: #4A00F;
+	border-color: #E8EAFA
+	
 }
 .container {
 	width: 960px;
