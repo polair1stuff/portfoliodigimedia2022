@@ -1,7 +1,7 @@
 @charset "UTF-8"; 
 /* This is a comment! Text here will be ignored by the browser. */
 body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #4A5DFF;
+	background-color: #3878E8F;
 	color: #E8EAFA;
 	border-color: #E8EAFA;
 	margin: 0 auto;
@@ -44,7 +44,7 @@ body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 .footer {
-	background: #4A5DFF;
+	background: #3878E8;
 	margin: 0px;
 	float: left;
 	width: 100%;
