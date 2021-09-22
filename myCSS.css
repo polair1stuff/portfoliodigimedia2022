@@ -2,9 +2,10 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	background-color: #0000000;
-	color: ##F9EBE8;
-	border-color: ##F9EBE8;
+	color: #F9EBE8;
+	border-color: #F9EBE8;
 	margin: 0 auto;
+	
 	
 }
 .homePage {
