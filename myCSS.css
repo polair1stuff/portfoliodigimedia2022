@@ -1,15 +1,15 @@
 @charset "UTF-8"; 
 /* This is a comment! Text here will be ignored by the browser. */
 body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #3878E8F;
-	color: #E8EAFA;
-	border-color: #E8EAFA;
+	background-color: #0000000;
+	color: ##F9EBE8;
+	border-color: #000000;
 	margin: 0 auto;
 	
 }
 .homePage {
-	background: #3878E8;
-	border-color: #E8EAFA
+	background: #000000;
+	border-color: #F9EBE8
 	
 }
 .container {
@@ -17,7 +17,7 @@ body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	margin: 0 auto;
 }
 .header {
-	background: #4A5DFF;
+	background: #000000;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -27,7 +27,7 @@ body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	
 }
 .nav {
-	background: #4A5DFF;
+	background: ##F9EBE8;
 	margin: 0px;
 	padding: 5;
 	float: left;
