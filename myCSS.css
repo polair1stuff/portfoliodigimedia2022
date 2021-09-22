@@ -18,7 +18,7 @@ body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	margin: 0 auto;
 }
 .header {
-	background: #000000;
+	background: #EEEEEE;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -28,7 +28,7 @@ body { font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	
 }
 .nav {
-	background: ##F9EBE8;
+	background: #F9EBE8;
 	margin: 0px;
 	padding: 5;
 	float: left;
